@@ -1,2 +1,2 @@
 # react-tailwind-components
-feel free to clone, and i highly recommend you to contribute, so we all can share the benefits and encourage me more to contribute. Thank you.
+Please feel free to clone and I highly encourage you to contribute, so that we can all share the benefits and inspire further contributions. Thank you.
